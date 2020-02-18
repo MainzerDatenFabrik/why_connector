@@ -1,0 +1,4 @@
+1. $ py -m django startproject myproject
+
+2. Remove "#!&usr/bin/env python" from "manage.py"
+
